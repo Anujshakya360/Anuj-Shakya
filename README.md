@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0d17&height=250&section=header&text=ANUJ%20SHAKYA&fontSize=90&animation=twinkling&fontAlignY=40&desc=Exploring%20the%20Data%20Universe&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0d17&height=250&section=header&text=ANUJ%20SHAKYA&fontSize=90&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <br/>
 
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Mission-Germany%202028-240046?style=for-the-badge&logo=spacex&logoColor=white" />
 </p>
 
----
 </div>
 ---
 
