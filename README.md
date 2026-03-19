@@ -27,7 +27,17 @@
 </table>
 
 ---
+## 👨‍💻 About Me
 
+I am a **Third-Year BIT Student** based in Kathmandu, Nepal, with a passion for transforming raw data into strategic business insights. My journey is fueled by a blend of technical rigor in IT and a creative eye for brand design.
+
+- 📊 **Current Focus:** Masterclasses in **Data Analytics** and Advanced SQL.
+- 🎓 **Future Goals:** Pursuing a Master’s in Data Science in **Germany (2028)**.
+- 🇩🇪 **Language Journey:** Currently mastering **German (B2 Level)** to bridge the gap between global tech markets.
+- 🎨 **Creative Side:** I enjoy crafting minimalist digital identities (Check out my design projects below!).
+- 🏍️ **Off-duty:** You’ll find me on long-distance solo rides or hitting a 6-day PPL split at the gym.
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
